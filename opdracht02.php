@@ -1,3 +1,6 @@
+<!--Vul een variabele met een getal, als dit getal tussen de 0 en de 10 ligt,
+    druk dan een boodschap af op het scherm.-->
+
 <?php
 $getal = 5;
 

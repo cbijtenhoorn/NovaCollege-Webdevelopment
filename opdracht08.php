@@ -1,3 +1,5 @@
+<!--Vraag de gebruiker om zijn naam en leeftijd, druk zijn naam dan het aantal keer af dat hij oud is.-->
+
 <?php
 if (isset($_GET['name']) && isset($_GET['age'])) {
     $name = $_GET['name'];

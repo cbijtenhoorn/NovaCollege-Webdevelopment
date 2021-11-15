@@ -1,3 +1,5 @@
+<!--Vul een variabele met een getal, druk daarna de tafel af van dit getal.-->
+
 <?php
 $getal = 5;
 

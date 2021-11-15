@@ -1,3 +1,5 @@
+<!--Vraag de gebruiker om een getal, druk daarna de tafel, volledig (1 t/m 10) af op het scherm.-->
+
 <?php
 if (isset($_GET['num'])) {
     $num = $_GET['num'];

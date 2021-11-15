@@ -1,3 +1,7 @@
+<!--Vul een variabele met een getal, als dit tussen de 0 en de 10 ligt, controleer daarna of
+    het getal een voldoende of een onvoldoende is. Mocht de invoer niet goed zijn, druk
+    dan een foutmelding af op het scherm.-->
+
 <?php
 $getal = 5.5;
 

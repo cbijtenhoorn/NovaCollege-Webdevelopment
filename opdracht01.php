@@ -1,3 +1,5 @@
+<!--Vul een variabele met een getal, als dit getal groter is dan 0 druk dan een boodschap af op het scherm-->
+
 <?php
 $getal = -5;
 
